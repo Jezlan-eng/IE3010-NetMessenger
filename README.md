@@ -180,5 +180,5 @@ NID: 3744
 
 ## Academic Project
 
-This project was developed as part of the IE3010 networking/system programming assignment.
+This project was developed as part of the IE3010 network programming assignment.
 
